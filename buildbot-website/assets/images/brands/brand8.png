@@ -1,0 +1,30 @@
+BuildBot/
+│
+├── assets/
+│   ├── css/
+│   │   ├── main.css
+│   │   └── normalize.css
+│   ├── images/
+│   │   ├── logo.png
+│   │   ├── profile.jpg
+│   │   └── round-text.png
+│   ├── videos/
+│   │   └── simple-strings.mp4
+│   └── js/
+│       ├── main.js
+│       ├── resume.js
+│       ├── services.js
+│       ├── skills.js
+│       ├── projects.js
+│       ├── testimonial.js
+│       └── plans.js
+│
+├── index.html
+├── about.html
+├── resume.html
+├── services.html
+├── skills.html
+├── portfolio.html
+├── testimonial.html
+├── pricing.html
+└── contact.html
